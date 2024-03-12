@@ -1,0 +1,6 @@
+/* Write your CSS code here */
+.blogListContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

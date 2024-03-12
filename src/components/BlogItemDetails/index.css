@@ -1,0 +1,30 @@
+/* Write your CSS code here */
+.blog-details-title {
+  font-size: 30px;
+}
+.author-details {
+  display: flex;
+}
+.author-pic {
+  height: 60px;
+  border-radius: 50%;
+}
+.details-author-name {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+.blog-image {
+  margin-top: 10px;
+  height: 40vh;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.blog-content {
+  font-size: 20px;
+}
+
+.blog-info {
+  padding: 20px;
+}

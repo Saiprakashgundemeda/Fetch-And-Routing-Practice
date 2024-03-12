@@ -1,0 +1,46 @@
+/* Write your CSS code here */
+.BlogItemContainer {
+  border: 2px solid #d3d3d3; /* Set border width and color */
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.flex-row {
+  display: flex;
+}
+
+.blogImage {
+  height: 30vh;
+  width: 30%;
+  border-radius: 10px;
+}
+
+.author-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.avatarImg {
+  height: 50px;
+  border-radius: 50%;
+}
+
+p {
+  font-size: 20px;
+  color: #8e8e8e;
+}
+
+.authorName {
+  font-size: 18px;
+  margin-left: 10px;
+}
+
+h1 {
+  font-size: 25px;
+}
+
+.informationContainer {
+  margin: 20px;
+}
